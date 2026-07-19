@@ -1,0 +1,15 @@
+<svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="180" height="180" rx="40" ry="40" fill="#1B5E20"/>
+  <text
+    x="90" y="82"
+    font-family="DejaVu Sans, Arial, sans-serif"
+    font-size="54" font-weight="bold"
+    fill="white" text-anchor="middle" dominant-baseline="middle"
+  >عراقي</text>
+  <text
+    x="90" y="132"
+    font-family="DejaVu Sans, Arial, sans-serif"
+    font-size="54" font-weight="bold"
+    fill="white" text-anchor="middle" dominant-baseline="middle"
+  >إيكو</text>
+</svg>
